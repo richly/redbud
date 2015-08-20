@@ -1,0 +1,77 @@
+@CHARSET "UTF-8";
+
+a{
+	font-family: "Microsoft Yahei" !important;
+}
+.footer-link{
+	color: rgb(157,157,157);
+
+}
+.back-to-top{
+	float: right;
+}
+p{
+	font-family: "Microsoft Yahei" ;
+	margin-bottom: 0;
+}
+.footer-text{
+	color: rgb(157,157,157);
+}
+body{
+	text-align: center;
+}
+div.logo-container{
+	height: 50px;
+	width: 100%;
+}
+.hot-showing{
+background-color: rgb(247,247,247);
+border-width: 5px;
+border-color:#000;
+width: 90%;
+margin-left: 5%;
+height: 300px;
+}
+.coming-soon{
+background-color: rgb(247,247,247);
+border-width: 2px;
+border-color: #000;
+width: 90%;
+margin-left: 5%;
+height: 300px;
+}
+.movie-news{
+background-color: rgb(247,247,247);
+border-width: 2px;
+border-color: #000;
+width:90%;
+margin-left: 5%;
+height:300px;
+}
+.movie-item{
+
+	float: left;
+	width: 20%;
+	height: 300px;
+}
+.movie-news-item{
+	float: left;
+    width: 20%;
+	height: 300px;
+}
+img.movie-poster{
+	height: 300px;
+}
+.inline{
+	/*margin-left: 200px;*/
+   /* float: left; */
+   /* text-align: center;*/
+}
+.clear{
+	clear: both;
+}
+
+footer{
+	min-height: 50px;
+	background-color: rgb(34,34,34);
+}
